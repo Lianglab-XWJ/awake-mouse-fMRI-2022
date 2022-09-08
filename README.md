@@ -1,1 +1,4 @@
 # awake-mouse-fMRI-2022
+This manual includes Installation Manual, Reconstruction Tools Manual of the Simultaneous Multislice (SMS) Sequence in mouse based on Bruker 9.4T MRI, the 3D print files of animal beds and head holders and habituation chamber used in our work. The "MBEPIPackage" file includes the pulse sequence protocol, MRI data reconstruction and example data files. An example of MRI data is provided for you to further understand SMS. The design of animal beds and head holders is in the "head hoders and animal beds" file. And the design drawing of habituation chamber is a pdf file named "Design of Habituation Chamber and Box".
+If you have any questions about SMS sequence and reconstruction, please contact mc_pei@hotmail.com.
+If you have any questions about the design of head holders, animal beds or habituation chamber, please contact 17110850001@fudan.edu.cn.
